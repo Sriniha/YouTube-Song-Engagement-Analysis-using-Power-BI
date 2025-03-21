@@ -23,5 +23,3 @@ This project focuses on analyzing YouTube song trends using **Power BI**, provid
 ✅ **Yearly Growth Trends:** Audience interaction peaked around **2018–2020**, indicating a surge in music content consumption.  
 ✅ **Time-Based Engagement:** Evenings and nights see the highest engagement, which can help content creators optimize posting times.  
 ✅ **Views vs. Likes Correlation:** A **strong correlation between views and likes** indicates user appreciation trends and content popularity.  
-
-This project showcases **data storytelling, dashboard design, and actionable insights**, making it a valuable portfolio addition! 🚀 Let me know if you want refinements. 😊
