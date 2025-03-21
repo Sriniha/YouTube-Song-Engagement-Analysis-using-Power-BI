@@ -1,6 +1,4 @@
-# YouTube-Song-Engagement-Analysis-using-Power-BI
-
-Here are key points you can include in your portfolio for **"YouTube Song Analysis Using Power BI"**:  
+# YouTube-Song-Engagement-Analysis-using-Power-BI 
 
 ### **Project Overview:**  
 This project focuses on analyzing YouTube song trends using **Power BI**, providing insights into audience engagement, content performance, and user interaction over time.  
